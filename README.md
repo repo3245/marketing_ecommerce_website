@@ -1,4 +1,4 @@
-# Store Website
+# Marketing E-commerce Website
 
 This is a fully responsive marketing e-commerce store built with HTML, CSS, and JavaScript, this educational project was developed by [Gowtham Tirri](https://www.instagram.com/gowthamtirri/). The website includes a homepage with product categories, featured products, offers, and a footer with essential company and contact information.
 
