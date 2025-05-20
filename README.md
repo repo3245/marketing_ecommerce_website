@@ -24,4 +24,4 @@ To run the website locally, follow these steps:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/store-website.git
+   git clone https://github.com/repo3245/marketing_ecommerce_website.git
